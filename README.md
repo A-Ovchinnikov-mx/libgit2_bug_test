@@ -1,0 +1,1 @@
+# libgit2_bug_test
